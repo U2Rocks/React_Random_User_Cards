@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project is an application that uses the Randomuser.me api to generate randomized user cards in the browser.
+This project is an application that uses the randomuser.me api to generate randomized user cards in the browser.
 
 ## Build Notes
 
